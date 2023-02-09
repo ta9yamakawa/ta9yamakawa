@@ -4,7 +4,7 @@
 ## Qiita
 <p align="left">
   <a href="https://github.com/ta9yamakawa">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/ta9yamakawa?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/ta9yamakawa">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ta9yamakawa/posts.svg" />
